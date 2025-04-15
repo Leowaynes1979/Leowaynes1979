@@ -2,7 +2,7 @@
 - 👀 I’m interested in softwares and physics
 - 🌱 I’m currently learning how to code
 - 📫 How to reach me leonardomenezesengmec@yahoo.com.br
-- 😄 Pronouns: He
+- 😄 Pronoun: He
 - ⚡ Fun Fact: I'm a software engineering student
 
 <!---
